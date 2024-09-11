@@ -75,8 +75,8 @@ The web app is designed with a light and minimalistic theme, featuring:
 
 ## 📷 Screenshots
 
-![App Screenshot 1](sentiment analysis/sen2.png)
-![App Screenshot 2](sentiment analysis/sen3.png)
+![sen2](https://github.com/user-attachments/assets/013bfd9b-7bd4-458a-9e35-600a0eb55775)
+![sen3](https://github.com/user-attachments/assets/533391aa-f249-44b5-b582-9e84ecf5aa38)
 
 ## 🤖 Technologies Used
 
